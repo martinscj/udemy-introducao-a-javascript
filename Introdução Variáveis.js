@@ -1,4 +1,3 @@
-/* teste */
 
 let numero = 120;
 
