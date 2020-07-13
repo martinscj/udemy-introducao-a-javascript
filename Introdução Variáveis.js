@@ -1,3 +1,5 @@
+/* teste */
+
 let numero = 120;
 
 var texto = "String";
